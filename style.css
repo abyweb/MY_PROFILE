@@ -1,0 +1,77 @@
+
+h1{
+	color:black;
+	font-size: 50px;
+	font-family: American Typewriter
+}
+h4{
+	color:violet;
+	font-size: 30px;
+	font-family: American Typewriter
+}
+
+h5{
+	color:violet;
+	font-size: 30px;
+	font-family: American Typewriter
+}
+body {
+  color: rgb(0, 0, 0);        
+}
+
+div{ background-color:yellow; 
+	margin: 25px; 
+padding: 25px;
+font-family: Arial Black;
+border-top: 10px dotted black;
+border-right: 10px dotted black;
+border-bottom: 10px dotted black;
+border-left: 10px dotted black;
+border-radius: 50px;
+box-shadow: 10px 10px 12px grey;
+}
+
+
+
+h2{
+	color:red;
+	font-size: 30px; 
+	font-family:American Typewriter;
+}
+
+p{
+	color:black;
+	font-size: 25px;
+	font-family:Cambria;
+}
+
+h3{
+	color:orange;
+	font-size: 30px; 
+	font-family:Arial black;
+}
+
+body {
+  color: rgb(10, 10, 10);     
+	background-color: grey;  
+}
+
+body {
+  font-size: 30px;
+	line-height: 1;
+	letter-spacing: 1px;
+}
+body {
+  font-weight: lighter;
+	
+}
+
+img{
+display:block;
+width:auto;
+margin-left:auto;
+margin-right:auto;
+}
+
+
+
